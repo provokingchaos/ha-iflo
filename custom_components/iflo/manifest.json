@@ -4,9 +4,8 @@
   "codeowners": [],
   "config_flow": true,
   "dependencies": [],
-  "documentation": "https://github.com/provokingchaos/iflo_ha",
+  "documentation": "https://github.com/provokingchaos/ha-iflo",
   "iot_class": "cloud_polling",
   "requirements": [],
   "version": "1.0.0"
 }
-
