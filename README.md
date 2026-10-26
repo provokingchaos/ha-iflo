@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/provokingchaos/ha-iflo/refs/heads/main/icon.png" alt="iFlo Logo" width="100">
+</p>
+
 # iFLO HVAC Custom Integration for Home Assistant
 
 A HACS-compatible custom integration for monitoring your iFLO Smart Automated A/C Drain Line Cleaning System via the cloud API.
